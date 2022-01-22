@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "idb": "^4.0.3",
-    "lokijs": "^1.5.4",
+    "lokijs": "^1.5.12",
     "uuid": "^3.2.1"
   },
   "devDependencies": {
