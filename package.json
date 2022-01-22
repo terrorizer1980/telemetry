@@ -17,7 +17,7 @@
   "dependencies": {
     "idb": "^4.0.3",
     "lokijs": "^1.5.4",
-    "uuid": "^3.2.1"
+    "uuid": "^3.4.0"
   },
   "devDependencies": {
     "@types/chai": "^4.1.3",
